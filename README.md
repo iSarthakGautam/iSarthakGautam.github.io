@@ -14,4 +14,4 @@
 
 ### Animations are done using CSS And JS.
 
-#### Help/Idea are taken from external websites such as w3schools.
+#### Help/Idea are taken from external websites such as w3schools etc.
